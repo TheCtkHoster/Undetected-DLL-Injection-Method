@@ -1,3 +1,10 @@
 # Undetected-DLL-Injection
 
-https://user-images.githubusercontent.com/48086737/170106580-716a5608-65f4-40c8-bda6-479cf17632e4.png
+📖 Project Overview :
+This is a DLL injector written in C++, it uses the most advanced method to inject DLL (LoadLibrary).
+
+🚀 Getting Started :
+
+
+Open the solution file (.sln).
+Build the project in Release (x86) and configure anything you want.
