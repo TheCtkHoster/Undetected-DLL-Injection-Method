@@ -1,5 +1,7 @@
 # Undetected-DLL-Injection
 
+⚠️**WARNING THIS PROJECT IS STILL UNDER DEVELOPMENT FOR V2. THIS INJECTOR CURRENTLY SUCKS AND IM MAKING V2. V2 WILL BE RELEASED OVER THE NEXT FEW DAYS** ⚠️
+
 📖 Project Overview :
 
 This is a DLL injector written in C++, it uses the most advanced method to inject DLL (LoadLibrary).
